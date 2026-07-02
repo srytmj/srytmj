@@ -7,18 +7,18 @@
 
 </div>
 
-Nggak sengaja kejeblos ke jurusan **Sistem Informasi Akuntansi**, eh malah keterusan penasaran sama sistem yang menghasilkan angka-angka itu. Sekarang malah lebih sering mikirin server daripada neraca.
+Nggak sengaja kejeblos ke jurusan Sistem Informasi Akuntansi, eh malah keterusan penasaran sama sistem yang menghasilkan angka angka itu. Sekarang malah lebih sering mikirin server daripada neraca.
 
 ## 🟢 Now
 
-Lagi ikut program **AWS re/Start** (20 Juli – 4 September 2026, 7 minggu), belajar penuh waktu buat siap masuk industri cloud.
+Lagi ikut program AWS re/Start, jalan dari 20 Juli sampai 4 September 2026 (7 minggu). Belajar penuh waktu dan berusaha bener bener siap buat masuk industri cloud.
 
 ## 🔧 Fokus & Kompetensi
 
-- **Cloud Infrastructure** — AWS fundamentals (EC2, S3, RDS), dasar system design
-- **FinOps & Cost Optimization** — cost awareness, strategi optimasi biaya cloud
-- **Data** — data processing & analysis, data-driven decision making
-- **Automation** — Python & scripting, automation berbasis cloud tooling
+- **Cloud Infrastructure**: AWS fundamentals (EC2, S3, RDS), dasar system design
+- **FinOps & Cost Optimization**: cost awareness dan strategi optimasi biaya cloud
+- **Data**: processing dan analysis, biar keputusan diambil dari data bukan feeling doang
+- **Automation**: Python dan scripting, kebanyakan buat cloud tooling
 
 ## 🛠️ Tools & Teknologi
 
@@ -29,15 +29,11 @@ Lagi ikut program **AWS re/Start** (20 Juli – 4 September 2026, 7 minggu), bel
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📌 Beberapa Project
-
-- **[Group Checklist](https://github.com/srytmj/group-checklist)** — realtime checklist app pakai Bun, Hono, Alpine.js
-- **[HA Web Server](https://github.com/srytmj/ha-webserver)** — arsitektur high-availability di AWS (EC2, RDS, S3, ALB)
-- **[Laravel POS Accounting](https://github.com/srytmj/laravel-pos-accounting)** — POS terintegrasi sistem akuntansi & jurnal otomatis
+**Lagi didalami:** Terraform, FinOps Certified Practitioner, dasar multi-cloud (GCP/Azure)
 
 ## 📝 Blog
 
-Nulis apa aja yang kupelajari di **[Ngoprek Aja](https://suryatmaja.dev)** — dari cloud, FinOps, sampai fighting game.
+Nulis apa aja yang kupelajari di [Ngoprek Aja](https://suryatmaja.dev). Cloud, FinOps, sampai kadang bahas fighting game juga karena kenapa nggak.
 
 ## 📫 Kontak
 
