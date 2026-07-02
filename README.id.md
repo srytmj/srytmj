@@ -29,7 +29,7 @@ Lagi ikut program AWS re/Start, jalan dari 20 Juli sampai 4 September 2026 (7 mi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Lagi didalami:** Terraform, FinOps Certified Practitioner, dasar multi-cloud (GCP/Azure)
+**Lagi didalami:** Docker, Terraform, FinOps Certified Practitioner, dasar multi-cloud (GCP/Azure)
 
 ## 📝 Blog
 
