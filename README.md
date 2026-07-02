@@ -29,7 +29,7 @@ Currently in the AWS re/Start program, running July 20 to September 4, 2026 (7 w
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Exploring next:** Terraform, FinOps Certified Practitioner, multi-cloud basics (GCP/Azure)
+**Exploring next:** Docker, Terraform, FinOps Certified Practitioner, multi-cloud basics (GCP/Azure)
 
 ## 📝 Blog
 
