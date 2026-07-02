@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, saya Bakti Surya Atmaja (Maja) 👋
+# Halo, saya Maja 👋
 
 [![English](https://img.shields.io/badge/lang-English-blue)](README.md)
 [![Bahasa Indonesia](https://img.shields.io/badge/lang-Indonesia-red)](README.id.md)
