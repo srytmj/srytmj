@@ -7,18 +7,18 @@
 
 </div>
 
-I didn't plan on ending up in **Accounting Information Systems** — I just kind of landed there. But somewhere along the way I got hooked on the systems behind the numbers instead of the numbers themselves. These days I think about servers more than balance sheets.
+I didn't really plan on ending up in Accounting Information Systems, I just kind of landed there. Somewhere along the way I got hooked on the systems behind the numbers instead of the numbers themselves, and now I think about servers more than balance sheets.
 
 ## 🟢 Now
 
-Currently in the **AWS re/Start** program (July 20 – September 4, 2026, 7 weeks), learning full-time to get industry-ready for cloud.
+Currently in the AWS re/Start program, running July 20 to September 4, 2026 (7 weeks). Learning full-time and trying to get properly industry-ready for cloud work.
 
 ## 🔧 Focus & Skills
 
-- **Cloud Infrastructure** — AWS fundamentals (EC2, S3, RDS), basic system design
-- **FinOps & Cost Optimization** — cost awareness, cloud cost optimization strategy
-- **Data** — data processing & analysis, data-driven decision making
-- **Automation** — Python & scripting, cloud tooling automation
+- **Cloud Infrastructure**: AWS fundamentals (EC2, S3, RDS), basic system design
+- **FinOps & Cost Optimization**: cost awareness and optimization strategy for cloud usage
+- **Data**: processing, analysis, and making decisions based on it instead of gut feeling
+- **Automation**: Python and scripting, mostly for cloud tooling
 
 ## 🛠️ Tools & Tech
 
@@ -29,15 +29,11 @@ Currently in the **AWS re/Start** program (July 20 – September 4, 2026, 7 week
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📌 Some Projects
-
-- **[Group Checklist](https://github.com/srytmj/group-checklist)** — realtime checklist app built with Bun, Hono, Alpine.js
-- **[HA Web Server](https://github.com/srytmj/ha-webserver)** — high-availability architecture on AWS (EC2, RDS, S3, ALB)
-- **[Laravel POS Accounting](https://github.com/srytmj/laravel-pos-accounting)** — POS system integrated with accounting/journal automation
+**Exploring next:** Terraform, FinOps Certified Practitioner, multi-cloud basics (GCP/Azure)
 
 ## 📝 Blog
 
-I write about whatever I'm learning at **[Ngoprek Aja](https://suryatmaja.dev)** — cloud, FinOps, and the occasional fighting game post.
+I write about whatever I'm learning at [Ngoprek Aja](https://suryatmaja.dev). Cloud, FinOps, and sometimes a post about fighting games because why not.
 
 ## 📫 Contact
 
