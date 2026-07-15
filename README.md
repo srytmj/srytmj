@@ -11,7 +11,7 @@ I didn't really plan on ending up in Accounting Information Systems, I just kind
 
 ## 🟢 Now
 
-Currently in the AWS re/Start program, running July 20 to September 4, 2026 (7 weeks). Learning full-time and trying to get properly industry-ready for cloud work.
+Currently in the AWS re/Start program, running late July to September 2026 (7 weeks). Learning full-time and trying to get properly industry-ready for cloud work.
 
 ## 🔧 Focus & Skills
 
